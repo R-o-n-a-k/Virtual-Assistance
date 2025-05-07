@@ -4,7 +4,7 @@ A voice-controlled virtual assistant built using Python that executes commands l
 
 ## 🚀 About Project
 
-This project implements a **Python-based Virtual Assistant**, named **Jarvis**, capable of handling spoken commands and executing tasks like web browsing, sending emails, playing local media, and reporting time — all through **speech interaction**. It utilizes **Google Speech Recognition**, **pyttsx3** for TTS, and other Python libraries for functionality.
+This project implements a **Python-based Virtual Assistant**, named **Jarvis**, capable of handling spoken commands and executing tasks like web browsing, sending emails, playing local media, and reporting time - all through **speech interaction**. It utilizes **Google Speech Recognition**, **pyttsx3** for TTS, and other Python libraries for functionality.
 
 ## 🛠️ Technologies Used
 
@@ -42,8 +42,8 @@ cd Virtual-Assistance
 2. Install Requirements
 ```bash
 pip install pyttsx3 SpeechRecognition wikipedia
-You may also need to install PyAudio manually depending on your system.
 ```
+>You may also need to install PyAudio manually depending on your system.
 
 3. Run the Script
 ```bash
@@ -53,4 +53,4 @@ python jarvis.py
 >Make sure your microphone is working, and update file paths and email credentials in the script for full functionality.
 
 <hr>
-<p align="center">🧠 Built as a voice-interactive assistant to explore Python’s automation and AI capabilities.</p>
+<p align="center">🧠 Built as a voice-interactive assistant to explore Python’s automation.</p>
